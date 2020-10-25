@@ -2,7 +2,7 @@ baseURL = "http://happyb2n.github.io/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "해삐빈 블로그"
+title = "My New Hugo Site"
 theme = "jeffprod"
 
 hasCJKLanguage = true
