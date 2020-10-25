@@ -1,0 +1,24 @@
+baseURL = "http://happyb2n.github.io/"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "My New Hugo Site"
+theme = "jeffprod"
+
+hasCJKLanguage = true
+metaDataFormat = "yaml"
+
+pygmentsCodeFences = true
+pygmentsCodeClasses = true
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
